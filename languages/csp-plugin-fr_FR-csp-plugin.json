@@ -1,0 +1,141 @@
+{
+  "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+  "generator": "WP-CLI\/2.7.1",
+  "source": "build/index.js",
+  "domain": "csp-plugin",
+  "locale_data": {
+    "csp-plugin": {
+      "": {
+        "domain": "csp-plugin",
+        "lang": "fr-FR",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "An error occurred and the synchronization could not start": [
+        "Une erreur est survenue et la synchronisation n'a pas pu commencer"
+      ],
+      "An error occurred while fetching the named entities": [
+        "Une erreur est survenue lors de la récupération des entités nommées"
+      ],
+      "An error occurred.": [
+        "Une erreur est survenue."
+      ],
+      "Choose the related post": [
+        "Choisissez un article similaire"
+      ],
+      "Cancel": [
+        "Annuler"
+      ],
+      "Save": [
+        "Enregistrer"
+      ],
+      "Synchronization n\u00b0%d started.": [
+        "La syncrhonisation n\u00b0%d a commenc\u00e9."
+      ],
+      "CSP Related posts": [
+        "Voir les articles similaires"
+      ],
+      "Related posts": [
+        "Semantic Platform : articles similaires"
+      ],
+      "Select": [
+        "S\u00e9lectionner"
+      ],
+      "No result": [
+        "Pas de r\u00e9sultat"
+      ],
+      "See post categories": [
+        "Semantic Platform : %s"
+      ],
+      "Categorize post": [
+        "Semantic Platform : catégories"
+      ],
+      "Tag post": [
+        "Semantic Platform : étiquettes"
+      ],
+      "Are you sure you want to add/remove the recommended category?": [
+        "\u00cates-vous s\u00fbr de vouloir ajouter\/supprimer la cat\u00e9gorie recommand\u00e9e?"
+      ],
+      "Extract named entities": [
+        "Semantic Platform : entités nommées"
+      ],
+      "Find links": [
+        "Semantic Platform : trouver les liens"
+      ],
+      "Refresh": [
+        "Recharger"
+      ],
+      "Create": [
+        "Créer"
+      ],
+      "Add": [
+        "Ajouter"
+      ],
+      "Delete": [
+        "Supprimer"
+      ],
+      "Insert link": [
+        "Insérer un lien"
+      ],
+      "Add as tag": [
+        "Ajouter comme étiquette"
+      ],
+      "Named entities candidates": [
+        "Semantic Platform : entités nommées suggérées"
+      ],
+      "Known named entities": [
+        "Semantic Platform : entités nommées contrôlées"
+      ],
+      "Number of occurrences": [
+        "Nombre d'occurrences"
+      ],
+      "Named entities": [
+        "Entités nommées"
+      ],
+      "CSP Named entities": [
+        "Semantic Platform : entités nommées"
+      ],
+      "Entity": [
+        "Entité"
+      ],
+      "Score": [
+        "Score"
+      ],
+      "Loading...": [
+        "Chargement..."
+      ],
+      "This action might take a long time to complete": [
+        "Cette opération peut prendre du temps"
+      ],
+      "Done": [
+        "Terminée"
+      ],
+      "Validate": [
+        "Valider"
+      ],
+      "No taxonomy is configured, please contact your administrator.": [
+        "Aucune taxonomie n'est définie, veuillez vous rapprocher de l'administrateur de votre site."
+      ],
+      "No dictionary is configured, please contact your administrator.": [
+        "Aucun dictionnaire n'est définie, veuillez vous rapprocher de l'administrateur de votre site."
+      ],
+      "Actions": [
+        "Actions"
+      ],
+      "Type": [
+        "Type"
+      ],
+      "person": [
+        "Personne"
+      ],
+      "location": [
+        "Lieu"
+      ],
+      "organization": [
+        "Organisation"
+      ],
+      "misc": [
+        "Divers"
+      ]
+    }
+  }
+}

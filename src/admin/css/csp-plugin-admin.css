@@ -1,0 +1,147 @@
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.csp-plugin-meta-box-action-button {
+    margin-bottom: 1em !important;
+}
+
+.csp-plugin-warning-notice {
+    margin-bottom: 1em !important;
+}
+
+.csp-plugin-spinner {
+    visibility: visible;
+    display: inline-block;
+    float: none;
+}
+
+/* Related post meta-box */
+.csp-plugin-remove-related-post-button {
+    color: #135e96;
+    float: right;
+}
+
+.csp-plugin-remove-related-post-button:hover {
+    cursor: pointer;
+}
+
+/* Related posts modal */
+.csp-plugin-related-posts-modal {
+    min-width: 50em;
+}
+
+.csp-plugin-modal-result-table-container {
+    margin-bottom: 2em;
+}
+
+.csp-plugin-related-posts-modal-button {
+    margin: 0 1em;
+}
+
+/* Related post synchro */
+.csp-plugin_synchronization_progress_bar {
+    margin-bottom: 2em;
+}
+
+.csp-plugin_synchronization_progress_bar label {
+    display: inline-block;
+    width: 90%;
+}
+
+.csp-plugin_synchronization_progress_bar progress {
+    display: inline-block;
+    width: 100%;
+}
+
+/* Categorization meta-box */
+.csp-plugin-select-recommended-category-button {
+    color: #135e96;
+    float: right;
+}
+
+.csp-plugin-select-recommended-category-button:hover {
+    cursor: pointer;
+}
+
+.csp-plugin-settings-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.csp-plugin-settings-section-container {
+    flex: 1;
+    min-width: 60em;
+    max-width: 60em;
+    background-color: #ffffff;
+    margin: 1em;
+    padding: .7em 2em 1em;
+    border: 1px solid #c3c4c7;
+    box-sizing: border-box;
+}
+
+.csp-plugin-full-width{
+    width: 100%
+}
+
+.csp-plugin-margin-top-1 {
+    margin-top: 1em;
+}
+
+.csp-plugin-margin-top-2 {
+    margin-top: 2em;
+}
+
+.csp-plugin-margin-bottom-1 {
+    margin-bottom: 1em;
+}
+
+.csp-plugin-margin-bottom-2 {
+    margin-bottom: 2em;
+}
+
+.csp-plugin-border-top {
+    border-top: 2px solid #c3c4c7;
+}
+
+.csp-plugin-no-margin {
+    margin: 0;
+}
+
+#csp-plugin-start-sync-button {
+    width: 165px;
+}
+
+.csp-plugin-tooltip-parent {
+    text-align: center;
+    padding: 6px 0;
+    position: absolute;
+    z-index: 1;
+}
+.csp-plugin-tooltip-parent .csp-plugin-tooltip-text {
+    visibility:hidden;
+}
+
+.csp-plugin-button-alert {
+    background-color: #f44336 !important;
+    border-color: #f44336 !important;
+}
+
+.csp-plugin-tooltip-parent:hover .csp-plugin-tooltip-text {
+    visibility: visible;
+    right: -2em;
+    position: relative;
+    bottom: 35px;
+    padding: 5px;
+    font-size: 14px;
+    width: 130px;
+    border-radius: 4px;
+    background-color: black;
+    color: #fff;
+    display: inline-block;
+}

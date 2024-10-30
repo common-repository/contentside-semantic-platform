@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ContentSide Semantic Platform 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/csp-plugin\n"
+"Last-Translator: Thibault SCHAELLER <thibault.schaeller@contentside.com>\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-06T11:38:35+00:00\n"
+"PO-Revision-Date: 2023-06-06T11:38:35+00:00\n"
+"Language: \n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: csp-plugin\n"
+
+#. Plugin Name of the plugin
+msgid "ContentSide Semantic Platform"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.contentside.com/solutions/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Connects your wordpress site to the CSP"
+msgstr "Enrichissez vos articles avec Semantic Platform"
+
+#. Author of the plugin
+msgid "ContentSide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.contentside.com/"
+msgstr ""
+
+############################################################
+# Plugins page
+############################################################
+msgid "Settings"
+msgstr "Réglages"
+
+############################################################
+# Options page
+############################################################
+msgid "CSP"
+msgstr "Semantic Platform"
+
+msgid "API Settings"
+msgstr "Authentification"
+
+msgid "API Key"
+msgstr "Clé API"
+
+msgid "Number of related posts returned"
+msgstr "Nombre d'articles similaires"
+
+msgid "Starting date for the synchronization"
+msgstr "Suggérer des articles similaires parus depuis le"
+
+msgid "Number of categories returned"
+msgstr "Nombre maximum"
+
+msgid "Number of tags returned"
+msgstr "Nombre maximum"
+
+msgid "Minimum score for the categories"
+msgstr "Score minimum de précision des catégories recommandées (%)"
+
+msgid "Minimum score for the tags"
+msgstr "Score minimum de précision des étiquettes recommandées (%)"
+
+msgid "The name of the category tree"
+msgstr "Sélectionner la taxonomie Semantic Platform"
+
+msgid "The name of the taxonomy to use"
+msgstr "Sélectionner la taxonomie WordPress"
+
+msgid "The name of the tagging tree"
+msgstr "Sélectionner la taxonomie Semantic Platform"
+
+msgid "Save changes"
+msgstr "Enregistrer les changements"
+
+msgid "Synchronization"
+msgstr "Synchronisation"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Synchronize posts"
+msgstr "Démarrer"
+
+msgid "Done"
+msgstr "Terminée"
+
+msgid "Initialization"
+msgstr "Initialisation"
+
+msgid "Here you can configure all the needed parameters for the CSP plugin"
+msgstr "Cette extension fonctionne exclusivement avec une clé API fournie par ContentSide."
+
+msgid "Contact us"
+msgstr "nous contacter"
+
+msgid "Named entities in posts"
+msgstr "Entités nommées dans les articles"
+
+msgid "The name of the dictionary"
+msgstr "Sélectionner le dictionnaire d'entités nommées"
+
+msgid "Minimum score for the named entities"
+msgstr "Score minimum de précision des entités nommées (%)"
+
+msgid "Format of the URLs for the named entities"
+msgstr "Format des URLs pour les entités nommées"
+
+msgid "The API key is invalid. Please check the key and try again."
+msgstr "La clé API est invalide. Veuillez la vérifier et réessayer."
+
+msgid "To only add the entities as tags and not insert them in the content"
+msgstr "Ajouter les entités nommées sous forme d'étiquettes uniquement"
+
+msgid "To only insert in the post content the first occurrence of each entity"
+msgstr "Ajouter les entités nommées dans le contenu de l'article seulement à la première occurrence"
+
+msgid "You can configure here how to generate URLs for the entities by adding {entity} wherever you need it to be."
+msgstr "Vous pouvez ici configurer comment générer les URLs pour les entités en ajoutant {entity} où vous le souhaitez."
+
+msgid "This action might take a long time to complete"
+msgstr "Cette opération peut prendre du temps"
+
+############################################################
+# Lookalike
+############################################################
+msgid "Discover related posts"
+msgstr "Obtenir des articles similaires"
+
+msgid "Related posts"
+msgstr "Semantic Platform : articles similaires"
+
+msgid "Related post"
+msgstr "Article similaire"
+
+msgid "short_code_title"
+msgstr "Articles similaires"
+
+msgid "No related post found"
+msgstr "Pas d'article similaire trouvé"
+
+msgid "Select"
+msgstr "Action"
+
+msgid "Remove from related posts list"
+msgstr "Retirer de la liste des articles similaires"
+
+msgid "Remove all related posts"
+msgstr "Retirer tous les articles similaires"
+
+############################################################
+# Categorize
+############################################################
+msgid "See post categories"
+msgstr "Semantic Platform : %s"
+
+msgid "Semantic Platform: Recommended categories"
+msgstr "Semantic Platform: catégories recommandées"
+
+############################################################
+# Tagging
+############################################################
+msgid "Tagging posts"
+msgstr "Semantic Platform : étiquettes"
+
+msgid "Semantic Platform: Recommended tags"
+msgstr "Semantic Platform: étiquettes recommandées"
+
+############################################################
+# NER
+############################################################
+msgid "No named entities found"
+msgstr "Pas d'entité nommée trouvée"
+
+msgid "Extract named entities"
+msgstr "Semantic Platform : entités nommées"

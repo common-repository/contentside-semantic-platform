@@ -1,0 +1,18 @@
+{
+  "name": "contentside/csp-plugin",
+  "description": "Wordpress plugin used to connect a wordpress site to the CSP",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Thibault Schaeller",
+      "email": "thibault.schaeller@contentside.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-libxml": "*",
+    "ext-dom": "*",
+    "woocommerce/action-scheduler": "^3.5"
+  }
+}
